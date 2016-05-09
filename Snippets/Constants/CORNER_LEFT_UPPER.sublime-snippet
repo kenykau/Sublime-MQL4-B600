@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CORNER_LEFT_UPPER${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>CORNER_LEFT_UPPER</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Center of coordinates is in the upper left corner of the chart</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CryptEncode(${1:ENUM_CRYPT_METHOD method}, ${2:const uchar& data[]}, ${3:const uchar& key[]}, ${4:uchar& result[]})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cryptencode</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Transforms the data from array with the specified method</description>
+</snippet>

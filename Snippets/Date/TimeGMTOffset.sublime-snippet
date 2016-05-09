@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[TimeGMTOffset()${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>timegmtoffset</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Returns the current difference between GMT time and the local computer time in seconds, taking into account DST switch</description>
+</snippet>

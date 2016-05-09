@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[TERMINAL_EMAIL_ENABLED${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>TERMINAL_EMAIL_ENABLED</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Permission to send e-mails using SMTP-server and login, specified in the terminal settings</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ERR_FILE_WRONG_FILENAME${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ERR_FILE_WRONG_FILENAME</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Wrong file name</description>
+</snippet>

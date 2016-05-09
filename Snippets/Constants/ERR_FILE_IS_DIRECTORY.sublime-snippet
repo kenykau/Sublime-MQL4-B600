@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ERR_FILE_IS_DIRECTORY${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ERR_FILE_IS_DIRECTORY</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>File is directory not file</description>
+</snippet>

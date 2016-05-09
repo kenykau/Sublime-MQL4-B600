@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[STAT_EQUITY_DDREL_PERCENT${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>STAT_EQUITY_DDREL_PERCENT</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Maximum equity drawdown as a percentage. In the process of trading, an equity may have numerous drawdowns, for each of which the relative drawdown value in percents is calculated. The greatest value is returned</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ArrayCopyRates(${1:void& dest_array[][]}, ${2:string symbol=NULL}, ${3:int timeframe=0}){0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>arraycopyrates</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Copies rates to the two-dimensional array from chart RateInfo array returns copied bars amount</description>
+</snippet>

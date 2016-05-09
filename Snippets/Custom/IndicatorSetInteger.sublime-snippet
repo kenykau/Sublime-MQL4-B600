@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IndicatorSetInteger(${1:int prop_id}, ${2:int prop_value})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>indicatorsetinteger</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Sets the value of an indicator property of the int type</description>
+</snippet>

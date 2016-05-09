@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[TERMINAL_PING_LAST${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>TERMINAL_PING_LAST</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>The last known value of a ping to a trade server in microseconds. One second comprises of one million microseconds</description>
+</snippet>

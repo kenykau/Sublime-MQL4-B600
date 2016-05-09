@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+		bool 		_Set${1:property}(string name, ${2:string|int|double|float|color|bool|datetime} ${3:property}){
+					if(!ObjectSet${4:Integer}(_id, name, OBJPROP_${5:prop}, ${3:property}))
+					{
+						Print(__FUNCTION__, ", error:", GetLastError());
+						return false;
+					}
+					return true;}
+		]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_set</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>class set draw object property</description>
+</snippet>

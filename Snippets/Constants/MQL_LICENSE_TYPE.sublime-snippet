@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[MQL_LICENSE_TYPE${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>MQL_LICENSE_TYPE</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Type of license of the EX4 module. The license refers to the EX4 module, from which a request is made using MQLInfoInteger(MQL_LICENSE_TYPE).</description>
+</snippet>

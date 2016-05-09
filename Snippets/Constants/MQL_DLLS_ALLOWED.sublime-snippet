@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[MQL_DLLS_ALLOWED${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>MQL_DLLS_ALLOWED</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>The permission to use DLL for the given executed program</description>
+</snippet>

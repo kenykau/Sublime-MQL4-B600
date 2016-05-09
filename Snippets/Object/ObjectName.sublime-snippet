@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ObjectName(${1:int object_index})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>objectname</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Returns the name of an object by its index in the objects list</description>
+</snippet>

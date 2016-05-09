@@ -1,0 +1,66 @@
+<snippet>
+	<content><![CDATA[
+//+------------------------------------------------------------------+
+//|                        ${1:Copyright 2016, MetaQuotes Software Corp. }|
+//|                                             ${2:https://www.mql5.com }|
+//+------------------------------------------------------------------+
+#property copyright ${1:"Copyright 2016, MetaQuotes Software Corp."}
+#property link      ${2:"https://www.mql5.com"}
+#property version   ${3:"1.00"}
+#property strict
+#property ${4:indicator_chart_window|indicator_seperate_window}
+//+------------------------------------------------------------------+
+//| Custom indicator initialization function                         |
+//+------------------------------------------------------------------+
+int OnInit(){
+//--- indicator buffers mapping
+	${0}  
+//---
+	return(INIT_SUCCEEDED);
+}
+//+------------------------------------------------------------------+
+//| Custom indicator de-initialization function                         |
+//+------------------------------------------------------------------+
+void OnDeInit(const int reason=0){
+	
+}
+//+------------------------------------------------------------------+
+//| Custom indicator iteration function                              |
+//+------------------------------------------------------------------+
+int OnCalculate(const int rates_total,
+                const int prev_calculated,
+                const datetime &time[],
+                const double &open[],
+                const double &high[],
+                const double &low[],
+                const double &close[],
+                const long &tick_volume[],
+                const long &volume[],
+                const int &spread[]){
+//---
+	if(rates_total<0)
+		return 0;
+
+//--- return value of prev_calculated for next call
+   return(rates_total);
+ }
+//+------------------------------------------------------------------+
+//| ChartEvent function                                              |
+//+------------------------------------------------------------------+
+void OnChartEvent(const int id,
+                  const long &lparam,
+                  const double &dparam,
+                  const string &sparam){
+
+//---
+   
+}
+//+------------------------------------------------------------------+
+		]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>indicator</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>indicator template</description>
+</snippet>

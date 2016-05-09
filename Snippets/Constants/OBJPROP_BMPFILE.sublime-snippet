@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[OBJPROP_BMPFILE${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>OBJPROP_BMPFILE</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>The name of BMP-file for Bitmap Label. See also Resources</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[iAlligator(${1:string symbol}, ${2:int timeframe}, ${3:int jaw_period}, ${4:int jaw_shift}, ${5:int teeth_period}, ${6:int teeth_shift}, ${7:int lips_period}, ${8:int lips_shift}, ${9:int ma_method}, ${10:int applied_price}, ${11:int mode}, ${12:int shift})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ialligator</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Alligator</description>
+</snippet>

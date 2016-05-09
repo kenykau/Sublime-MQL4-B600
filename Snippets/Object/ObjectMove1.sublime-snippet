@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ObjectMove(${1:string object_name}, ${2:int point_index}, ${3:datetime time}, ${4:double price})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>objectmove</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Changes the coordinates of the specified object anchor point</description>
+</snippet>

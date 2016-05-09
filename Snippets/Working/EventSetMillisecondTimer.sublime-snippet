@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[EventSetMillisecondTimer(${1:int milliseconds})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>eventsetmillisecondtimer</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Launches event generator of the high-resolution timer with a period less than 1 second for the current chart</description>
+</snippet>

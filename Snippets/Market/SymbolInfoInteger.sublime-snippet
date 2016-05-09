@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SymbolInfoInteger(${1:string name}, ${2:ENUM_SYMBOL_INFO_INTEGER prop_id}${3:})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>symbolinfointeger</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Returns a value of an integer type (long, datetime, int or bool) of a specified symbol for the corresponding property</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[StrToTime(${1:string value})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>strtotime</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Converts string in the format "yyyy.mm.dd hh:mi" to datetime type</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[WindowScreenShot(${1:string filename}, ${2:int size_x}, ${3:int size_y}, ${4:int start_bar=-1}, ${5:int chart_scale=-1}, ${6:int chart_mode=-1})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>windowscreenshot</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Saves current chart screen shot as a GIF, PNG or BMP file depending on specified extension</description>
+</snippet>

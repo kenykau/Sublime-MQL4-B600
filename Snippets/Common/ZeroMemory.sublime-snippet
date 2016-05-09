@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ZeroMemory(${1:void & variable})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>zeromemory</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Resets a variable passed to it by reference. The variable can be of any type, except for classes and structures that have constructors.</description>
+</snippet>

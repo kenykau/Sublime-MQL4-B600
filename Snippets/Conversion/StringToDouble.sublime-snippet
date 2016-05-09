@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[StringToDouble(${1:string value})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>stringtodouble</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Converting a string containing a symbol representation of number into number of double type</description>
+</snippet>

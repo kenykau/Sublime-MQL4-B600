@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SYMBOL_VOLUME_MAX${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>SYMBOL_VOLUME_MAX</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Maximal volume for a deal</description>
+</snippet>

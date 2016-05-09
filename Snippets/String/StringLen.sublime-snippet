@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[StringLen(${1:string string_value})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>stringlen</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Returns the number of symbols in a string</description>
+</snippet>

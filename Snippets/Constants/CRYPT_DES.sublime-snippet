@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CRYPT_DES${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>CRYPT_DES</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>DES encryption with 56 bit key (7 bytes)</description>
+</snippet>

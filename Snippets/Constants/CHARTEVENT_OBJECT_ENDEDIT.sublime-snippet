@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CHARTEVENT_OBJECT_ENDEDIT${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>CHARTEVENT_OBJECT_ENDEDIT</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>End of text editing in the graphical object Edit</description>
+</snippet>

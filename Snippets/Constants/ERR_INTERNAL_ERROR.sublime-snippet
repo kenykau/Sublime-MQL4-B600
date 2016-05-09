@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ERR_INTERNAL_ERROR${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ERR_INTERNAL_ERROR</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Internal error</description>
+</snippet>

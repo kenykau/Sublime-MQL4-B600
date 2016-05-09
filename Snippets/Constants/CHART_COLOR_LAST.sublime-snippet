@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CHART_COLOR_LAST${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>CHART_COLOR_LAST</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Line color of the last executed deal price (Last)</description>
+</snippet>

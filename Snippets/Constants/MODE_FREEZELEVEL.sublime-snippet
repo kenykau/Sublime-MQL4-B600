@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[MODE_FREEZELEVEL${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>MODE_FREEZELEVEL</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Order freeze level in points. If the execution price lies within the range defined by the freeze level, the order cannot be modified, cancelled or closed</description>
+</snippet>

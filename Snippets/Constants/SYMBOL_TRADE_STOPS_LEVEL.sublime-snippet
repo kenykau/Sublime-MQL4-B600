@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SYMBOL_TRADE_STOPS_LEVEL${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>SYMBOL_TRADE_STOPS_LEVEL</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Minimal indention in points from the current close price to place Stop orders</description>
+</snippet>

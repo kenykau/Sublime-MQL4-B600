@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[M_LOG10E${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>M_LOG10E</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>log10(e)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ERR_FORMAT_TOO_MANY_FORMATTERS${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ERR_FORMAT_TOO_MANY_FORMATTERS</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Too many formatters in the format function</description>
+</snippet>

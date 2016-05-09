@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[STAT_MAX_CONLOSS_TRADES${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>STAT_MAX_CONLOSS_TRADES</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>The number of trades in the longest series of losing trades STAT_MAX_CONLOSSES</description>
+</snippet>

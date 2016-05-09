@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[StringFind(${1:string string_value}, ${2:string match_substring}, ${3:int start_pos=0})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>stringfind</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Search for a substring in a string</description>
+</snippet>

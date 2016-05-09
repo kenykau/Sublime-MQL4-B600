@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CRYPT_HASH_SHA256${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>CRYPT_HASH_SHA256</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>SHA256 HASH calculation</description>
+</snippet>

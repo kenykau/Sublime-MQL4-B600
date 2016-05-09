@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SERIES_SERVER_FIRSTDATE${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>SERIES_SERVER_FIRSTDATE</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>The very first date in the history of the symbol on the server regardless of the timeframe</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ObjectCreate(${1:long chart_id}, ${2:string object_name}, ${3:ENUM_OBJECT object_type}, ${4:int sub_window}, ${5:datetime time1}, ${6:double price1}, ${7:...}${8:datetime timeN=0}, ${9:double priceN=0})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>objectcreate</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Creates an object of the specified type in a specified chart</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[TextGetSize(${1:const string text}, ${2:uint& width}, ${3:uint& height})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>textgetsize</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Returns the string's width and height at the current font settings</description>
+</snippet>

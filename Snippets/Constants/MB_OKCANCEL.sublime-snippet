@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[MB_OKCANCEL${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>MB_OKCANCEL</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Message window contains two buttons: OK and Cancel</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CopyClose(${1:string symbol_name}, ${2:ENUM_TIMEFRAMES timeframe}, ${3:int start_pos}, ${4:int count}, ${5:double close_array[]})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>copyclose</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Gets history data on bar closing price for a specified symbol and period into an array</description>
+</snippet>

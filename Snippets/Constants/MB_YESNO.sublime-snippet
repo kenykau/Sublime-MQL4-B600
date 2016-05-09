@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[MB_YESNO${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>MB_YESNO</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Message window contains two buttons: Yes and No</description>
+</snippet>

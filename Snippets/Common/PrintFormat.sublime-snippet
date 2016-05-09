@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[PrintFormat(${1:string format_string}, ${2:...})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>printformat</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Formats and prints the sets of symbols and values in a log file in accordance with a preset format</description>
+</snippet>

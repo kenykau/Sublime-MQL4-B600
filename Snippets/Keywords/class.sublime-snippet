@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+class ${1:class_name}{
+	public:
+		void	${1:class_name}();
+		void	~${1:class_name}();
+};
+void ${1:class_name}(){
+	
+}
+void ~${1:class_name}(){
+	
+}
+		]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>class</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>class defination</description>
+</snippet>

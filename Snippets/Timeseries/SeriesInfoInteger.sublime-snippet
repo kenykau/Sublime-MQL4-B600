@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SeriesInfoInteger(${1:string symbol_name}, ${2:ENUM_TIMEFRAMES timeframe}, ${3:ENUM_SERIES_INFO_INTEGER prop_id})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>seriesinfointeger</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Returns information about the state of historical data</description>
+</snippet>

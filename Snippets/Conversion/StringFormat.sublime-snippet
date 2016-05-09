@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[StringFormat(${1:string format}, ${2:... ...})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>stringformat</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Converting number into string according to preset format</description>
+</snippet>

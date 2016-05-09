@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ResourceCreate(${1:const string resource_name}, ${2:const uint& data[]}, ${3:uint img_width}, ${4:uint img_height}, ${5:uint data_xoffset}, ${6:uint data_yoffset}, ${7:uint data_width}, ${8:ENUM_COLOR_FORMAT color_format}){0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>resourcecreate</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Creates an image resource based on a data set</description>
+</snippet>

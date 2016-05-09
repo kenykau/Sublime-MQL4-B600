@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ChartIndicatorDelete(${1:long chart_id}, ${2:int sub_window}, ${3:const string indicator_shortname})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>chartindicatordelete</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Removes an indicator with a specified name from the specified chart window</description>
+</snippet>

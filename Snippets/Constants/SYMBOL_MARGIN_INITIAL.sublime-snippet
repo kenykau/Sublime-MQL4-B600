@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SYMBOL_MARGIN_INITIAL${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>SYMBOL_MARGIN_INITIAL</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Initial margin means the amount in the margin currency required for opening an order with the volume of one lot. It is used for checking a client's assets when he or she enters the market.</description>
+</snippet>

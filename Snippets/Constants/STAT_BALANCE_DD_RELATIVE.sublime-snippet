@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[STAT_BALANCE_DD_RELATIVE${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>STAT_BALANCE_DD_RELATIVE</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Balance drawdown in monetary terms that was recorded at the moment of the maximum balance drawdown as a percentage (STAT_BALANCE_DDREL_PERCENT).</description>
+</snippet>

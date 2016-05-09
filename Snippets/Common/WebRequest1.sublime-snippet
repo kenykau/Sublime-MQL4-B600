@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[WebRequest(${1:const string method}, ${2:const string url}, ${3:const string headers}, ${4:int timeout}, ${5:const char &data[]}, ${6:char &result[]}, ${7:string &result_headers})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>webrequest</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Sends HTTP request to the specified server</description>
+</snippet>

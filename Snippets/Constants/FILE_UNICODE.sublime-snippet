@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FILE_UNICODE${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>FILE_UNICODE</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Strings of UNICODE type (two byte symbols). Flag is used in FileOpen()</description>
+</snippet>

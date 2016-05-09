@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[OrderModify(${1:int ticket}, ${2:double price}, ${3:double stoploss}, ${4:double takeprofit}, ${5:datetime expiration}, ${6:color arrow_color})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ordermodify</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Modification of characteristics of the previously opened or pending orders</description>
+</snippet>

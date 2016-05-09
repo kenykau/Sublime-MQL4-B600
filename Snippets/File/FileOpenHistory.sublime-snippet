@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FileOpenHistory(${1:int filename}, ${2:int mode}, ${3:int delimiter=''})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fileopenhistory</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Opens file in the current history directory or in its subfolders</description>
+</snippet>

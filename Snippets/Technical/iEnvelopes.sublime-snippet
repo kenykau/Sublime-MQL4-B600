@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[iEnvelopes(${1:string symbol}, ${2:int timeframe}, ${3:int ma_period}, ${4:int ma_method}, ${5:int ma_shift}, ${6:int applied_price}, ${7:double deviation}, ${8:int mode}, ${9:int shift})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ienvelopes</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Envelopes</description>
+</snippet>

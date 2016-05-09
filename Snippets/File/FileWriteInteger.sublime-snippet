@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FileWriteInteger(${1:int file_handle}, ${2:int value}, ${3:int size=INT_VALUE})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>filewriteinteger</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Writes value of the int type from the current position of a file pointer into a binary file</description>
+</snippet>

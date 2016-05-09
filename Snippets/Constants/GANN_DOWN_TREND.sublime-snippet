@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[GANN_DOWN_TREND${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>GANN_DOWN_TREND</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Line corresponding to the downward trend</description>
+</snippet>

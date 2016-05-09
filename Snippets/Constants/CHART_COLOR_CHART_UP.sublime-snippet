@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CHART_COLOR_CHART_UP${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>CHART_COLOR_CHART_UP</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Color for the up bar, shadows and body borders of bull candlesticks</description>
+</snippet>

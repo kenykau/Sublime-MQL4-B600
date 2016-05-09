@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[IS_DEBUG_MODE${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>IS_DEBUG_MODE</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Flag that a mql4-program operates in debug mode</description>
+</snippet>

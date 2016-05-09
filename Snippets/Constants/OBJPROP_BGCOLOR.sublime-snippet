@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[OBJPROP_BGCOLOR${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>OBJPROP_BGCOLOR</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>The background color for  OBJ_EDIT, OBJ_BUTTON, OBJ_RECTANGLE_LABEL</description>
+</snippet>

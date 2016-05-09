@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CHART_DRAG_TRADE_LEVELS${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>CHART_DRAG_TRADE_LEVELS</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Permission to drag trading levels on a chart with a mouse. The drag mode is enabled by default (true value)</description>
+</snippet>

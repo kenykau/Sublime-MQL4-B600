@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[iHighest(${1:string symbol}, ${2:int timeframe}, ${3:int type}, ${4:int count}, ${5:int start})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ihighest</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Returns the shift of the maximum value over a specific number of bars</description>
+</snippet>

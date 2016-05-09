@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ObjectSetText(${1:string object_name}, ${2:string text}, ${3:int font_size=0}, ${4:string font_name=NULL}, ${5:color text_color=clrNONE})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>objectsettext</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Changes the object description</description>
+</snippet>

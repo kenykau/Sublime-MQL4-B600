@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[__FILE__${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>__FILE__</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Name of the currently compiled file</description>
+</snippet>

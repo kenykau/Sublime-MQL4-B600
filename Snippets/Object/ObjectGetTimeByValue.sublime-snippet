@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ObjectGetTimeByValue(${1:string object_name}, ${2:double value}, ${3:int line_id=0})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>objectgettimebyvalue</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Returns the time value for the specified object price value</description>
+</snippet>

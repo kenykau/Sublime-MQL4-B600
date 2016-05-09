@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FileWriteDouble(${1:int file_handle}, ${2:double value})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>filewritedouble</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Writes value of the double type from the current position of a file pointer into a binary file</description>
+</snippet>

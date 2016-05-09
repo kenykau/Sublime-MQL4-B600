@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[SignalInfoSetDouble(${1:ENUM_SIGNAL_INFO_DOUBLE property_id}, ${2:double value})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>signalinfosetdouble</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Sets the value of double type property of signal copy settings</description>
+</snippet>

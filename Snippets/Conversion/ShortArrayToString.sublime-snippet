@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[ShortArrayToString(${1:ushort array[]}, ${2:int start=0}, ${3:int count=-1})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>shortarraytostring</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Copying array part into a string</description>
+</snippet>

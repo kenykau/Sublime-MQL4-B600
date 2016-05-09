@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[FileReadNumber(${1:int file_handle})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>filereadnumber</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Reads from the file of the CSV type a string from the current position till a delimiter (or til the end of a text line) and converts the read string into double value</description>
+</snippet>

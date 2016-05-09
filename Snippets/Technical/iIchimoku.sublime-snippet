@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[iIchimoku(${1:string symbol}, ${2:int timeframe}, ${3:int tenkan_sen}, ${4:int kijun_sen}, ${5:int senkou_span_b}, ${6:int mode}, ${7:int shift})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>iichimoku</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Ichimoku Kinko Hyo</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[CopyRates(${1:string symbol_name}, ${2:ENUM_TIMEFRAMES timeframe}, ${3:datetime start_time}, ${4:datetime stop_time}, ${5:MqlRates rates_array[]}){0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>copyrates</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Gets history data of the Rates structure for a specified symbol and period into an array</description>
+</snippet>

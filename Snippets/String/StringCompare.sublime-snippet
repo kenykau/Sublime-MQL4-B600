@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[StringCompare(${1:const string& string1}, ${2:const string& string2}, ${3:bool case_sensitive=true})${0}]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>stringcompare</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.mq4</scope>
+	<description>Compares two strings and returns 1 if the first string is greater than the second; 0 - if the strings are equal; -1 (minus 1) - if the first string is less than the second one</description>
+</snippet>
